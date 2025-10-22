@@ -24,8 +24,8 @@ Tenho experiência com **React, Node.js, PHP** e bancos de dados **PostgreSQL, O
 
 ## 🔹 Projetos
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
+| Projeto | Descrição |  |
+|---------|-----------|
 | Projeto 1 | Aplicação web feita com React e Tailwind CSS |
 | Projeto 2 | Sistema backend em Node.js com banco PostgreSQL |
 | Projeto 3 | Script de automação em Python |
@@ -64,4 +64,3 @@ npm run dev
 4. Abra o navegador e acesse:
 http://localhost:5173
 
-5. 
