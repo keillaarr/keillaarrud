@@ -26,9 +26,9 @@ Tenho experiência com **React, Node.js, PHP** e bancos de dados **PostgreSQL, O
 
 | Projeto | Descrição |  
 |---------|-----------|
-| Projeto 1 | Aplicação web feita com React e Tailwind CSS |
-| Projeto 2 | Sistema backend em Node.js com banco PostgreSQL |
-| Projeto 3 | Script de automação em Python |
+| Projeto 1 | xxx |
+| Projeto 2 | xxx |
+| Projeto 3 | xxx |
 
 
 
