@@ -1,4 +1,4 @@
-# 🚀 Portfólio de Keilla Arruda
+# Portfólio de Keilla Arruda
 
 Bem-vindo ao meu portfólio pessoal! Aqui apresento meus projetos, experiência e formas de contato.  
 Desenvolvido com **React**, **Vite** e **Tailwind CSS**.
@@ -26,32 +26,12 @@ Tenho experiência com **React, Node.js, PHP** e bancos de dados **PostgreSQL, O
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| Projeto 1 | Aplicação web feita com React e Tailwind CSS | [Ver Projeto](#) |
-| Projeto 2 | Sistema backend em Node.js com banco PostgreSQL | [Ver Projeto](#) |
-| Projeto 3 | Script de automação em Python | [Ver Projeto](#) |
+| Projeto 1 | Aplicação web feita com React e Tailwind CSS |
+| Projeto 2 | Sistema backend em Node.js com banco PostgreSQL |
+| Projeto 3 | Script de automação em Python |
 
 > Obs: Substitua os links `#` pelos links reais dos seus projetos hospedados ou no GitHub.
 
----
-
-## 🔹 Estrutura do Projeto
-
-
-
-portfolio-keilla/
-├─ public/
-├─ src/
-│ ├─ components/
-│ │ └─ PortfolioKeilla.jsx
-│ ├─ App.jsx
-│ ├─ main.jsx
-│ └─ style.css
-├─ package.json
-├─ vite.config.js
-└─ README.md
-
-
----
 
 ## 🔹 Funcionalidades
 
