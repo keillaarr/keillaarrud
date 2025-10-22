@@ -30,7 +30,6 @@ Tenho experiência com **React, Node.js, PHP** e bancos de dados **PostgreSQL, O
 | Projeto 2 | Sistema backend em Node.js com banco PostgreSQL |
 | Projeto 3 | Script de automação em Python |
 
-> Obs: Substitua os links `#` pelos links reais dos seus projetos hospedados ou no GitHub.
 
 
 ## 🔹 Funcionalidades
