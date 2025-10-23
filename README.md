@@ -5,20 +5,13 @@ Desenvolvido com **React**, **Vite** e **Tailwind CSS**.
 
 ---
 
-## 🔹 Badges de Tecnologias
+##  Badges de Tecnologias
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-## 🔹 Sobre mim
-
-Olá! Sou **Keilla Arruda**, desenvolvedora fullstack apaixonada por tecnologia e soluções que simplificam a vida das pessoas.  
-Tenho experiência com **React, Node.js, PHP** e bancos de dados **PostgreSQL, Oracle e SQL Server**.
 
 ---
 
@@ -32,7 +25,7 @@ Tenho experiência com **React, Node.js, PHP** e bancos de dados **PostgreSQL, O
 
 
 
-## 🔹 Funcionalidades
+##  Funcionalidades
 
 - **Seção Sobre mim** – Apresentação pessoal e experiência.
 - **Projetos** – Cards com projetos que já desenvolvi.
@@ -41,7 +34,7 @@ Tenho experiência com **React, Node.js, PHP** e bancos de dados **PostgreSQL, O
 
 ---
 
-## 🔹 Como Executar
+##  Como Executar
 
 1. Clone o repositório:
 
